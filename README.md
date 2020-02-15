@@ -6,6 +6,3 @@ Observations like how certain time of the day increases risks of certain acciden
 accidents can be used to prevent and avoid accidents in the future.
 
 
-
-Citations-
-https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5733254#overview 
